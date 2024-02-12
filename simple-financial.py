@@ -89,3 +89,5 @@ if st.button('Get Financial Insight') and client:
 
 if not client:
     st.warning("Please enter your OpenAI API key in the sidebar to use the app.")
+
+    
